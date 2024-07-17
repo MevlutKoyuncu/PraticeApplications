@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\bin\Debug\PraticeRepetitions.exe.config
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\bin\Debug\PraticeRepetitions.exe
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\bin\Debug\PraticeRepetitions.pdb
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\obj\Debug\PraticeRepetitions.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\obj\Debug\PraticeRepetitions.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\obj\Debug\PraticeRepetitions.exe
+C:\Users\Mevlüt\source\repos\PraticeRepetitions\PraticeRepetitions\obj\Debug\PraticeRepetitions.pdb

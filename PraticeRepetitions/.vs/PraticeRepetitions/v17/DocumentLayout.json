@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB360E7-B894-4C76-9AAB-EF0FD0FFCA75}|PraticeRepetitions\\PraticeRepetitions.csproj|C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\praticerepetitions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB360E7-B894-4C76-9AAB-EF0FD0FFCA75}|PraticeRepetitions\\PraticeRepetitions.csproj|solutionrelative:praticerepetitions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB360E7-B894-4C76-9AAB-EF0FD0FFCA75}|PraticeRepetitions\\PraticeRepetitions.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\praticerepetitions\\praticerepetitions\\uservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB360E7-B894-4C76-9AAB-EF0FD0FFCA75}|PraticeRepetitions\\PraticeRepetitions.csproj|solutionrelative:praticerepetitions\\uservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB360E7-B894-4C76-9AAB-EF0FD0FFCA75}|PraticeRepetitions\\PraticeRepetitions.csproj|C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\praticerepetitions\\palindromwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB360E7-B894-4C76-9AAB-EF0FD0FFCA75}|PraticeRepetitions\\PraticeRepetitions.csproj|solutionrelative:praticerepetitions\\palindromwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PalindromWords.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\PraticeRepetitions\\PalindromWords.cs",
+              "RelativeDocumentMoniker": "PraticeRepetitions\\PalindromWords.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\PraticeRepetitions\\PalindromWords.cs",
+              "RelativeToolTip": "PraticeRepetitions\\PalindromWords.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:35:37.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\PraticeRepetitions\\Program.cs",
+              "RelativeDocumentMoniker": "PraticeRepetitions\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\PraticeRepetitions\\Program.cs",
+              "RelativeToolTip": "PraticeRepetitions\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:26:43.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\PraticeRepetitions\\UserValidation.cs",
+              "RelativeDocumentMoniker": "PraticeRepetitions\\UserValidation.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PraticeRepetitions\\PraticeRepetitions\\UserValidation.cs*",
+              "RelativeToolTip": "PraticeRepetitions\\UserValidation.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:29:23.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
